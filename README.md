@@ -1,8 +1,10 @@
-Hi🙂, I intend to post code for all gym environments, I am not yet sure how. Stay tuned if you are interested.
+Hi🙂, I intend to post ML code for all gym environments from [openai](https://gym.openai.com/ "gym.openai.com/"), I am not yet sure how. Stay tuned if you are interested.
+I will be using pytorch library, read more about them: [Here](https://pytorch.org/ "Pytorch's official website")
 
 General dependencies(off the top of my head):
 ```
 pip install numpy
+pip install gym
 pip install torch
 ```
 
